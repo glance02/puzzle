@@ -1,6 +1,6 @@
 # puzzle
 
-A puzzle programe write in python
+A puzzle program write in python
 
 ## 文件介绍
 
